@@ -4,6 +4,7 @@ using System.Threading.Tasks;
 using SQLite;
 using MarcuAndreeaCosminaLab7.Data;
 using System.IO;
+using MarcuAndreeaCosminaLab7.Models;
 
 namespace MarcuAndreeaCosminaLab7;
 
