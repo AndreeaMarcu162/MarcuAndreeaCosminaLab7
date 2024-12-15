@@ -4,6 +4,7 @@ using System.IO;
 
 namespace MarcuAndreeaCosminaLab7
 {
+
     public partial class App : Application
     {
         static ShoppingListDatabase database;
